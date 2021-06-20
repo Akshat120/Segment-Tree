@@ -2,7 +2,7 @@
 using namespace std;
 // maxSize of Segment
 int N = 1e5 + 5;
-// Segemnt Vector
+// Segment Vector
 vector<int> S( 4 * N - 1 ,-1);
 // Build Segment Tree
 void segmentTree(int arr[],int v,int L,int R)
