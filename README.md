@@ -1,2 +1,2 @@
 # Segment-Tree
-Simple Segment-Tree Implementation
+Simple Segment-Tree Implementation [ C++ ] 
